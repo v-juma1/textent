@@ -1,6 +1,9 @@
 TextEnt
 =======
 
+实体分类   http://arxiv.org/abs/1806.02960v1
+
+
 TextEnt is a software to obtain vector representations of entities and documents from Wikipedia.
 
 ## Installation
